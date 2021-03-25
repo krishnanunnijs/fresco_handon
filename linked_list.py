@@ -48,4 +48,4 @@ while continue_loop:
     elif choice == 4:
         continue_loop = False
     else:
-        print "Invalid choice"
+        print "Invalid choice. Please make a valid chocie !"
